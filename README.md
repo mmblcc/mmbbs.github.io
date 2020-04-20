@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+### 萌妹社区全球永久主域名：
+### [https://www.mmbbs.cc](https://www.mmbbs.cc)  
 
-You can use the [editor on GitHub](https://github.com/mmblcc/mmbbs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 萌妹社区最近更新备用域名：
+### *[https://www.mmbbs.cc](https://www.mmbbs.cc)  
+### *[https://www.mmbbs.me](https://www.mmbbs.me)  
+### *[https://www.umav.cc](https://www.umav.cc)  
+### *[https://www.llav.cc](https://www.llav.cc)  
+### *[https://www.umav.me](https://www.umav.me)  
+### *[https://www.mm999.me](https://www.mm999.me)  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 网址专用邮箱：mmbbscc@gmail.com
+邮箱是最有效的方法之一，必须记录保存好，避免无法找到最新地址
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmblcc/mmbbs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 注意 注意 注意：
+### 网址随时都会被屏蔽。请记住萌妹社区地址发布页和邮箱！
+#### 当你看到这个页面，建议你按下键盘 Ctrl+D 收藏本页面！ 
+#### 当你看到这个页面，建议你按下键盘 Ctrl+D 收藏本页面！ 
+#### 当你看到这个页面，建议你按下键盘 Ctrl+D 收藏本页面！ 
+#### 当你看到这个页面，建议你按下键盘 Ctrl+D 收藏本页面！  
+#### 当你看到这个页面，建议你按下键盘 Ctrl+D 收藏本页面！ 
+#### 当你看到这个页面，建议你按下键盘 Ctrl+D 收藏本页面！ 
+#### 当你看到这个页面，建议你按下键盘 Ctrl+D 收藏本页面！ 
+#### 当你看到这个页面，建议你按下键盘 Ctrl+D 收藏本页面！ 
+#### 当你看到这个页面，建议你按下键盘 Ctrl+D 收藏本页面！ 
+#### 当你看到这个页面，建议你按下键盘 Ctrl+D 收藏本页面！ 
+#### 当你看到这个页面，建议你按下键盘 Ctrl+D 收藏本页面！ 
+#### 当你看到这个页面，建议你按下键盘 Ctrl+D 收藏本页面！ 
+#### 当你看到这个页面，建议你按下键盘 Ctrl+D 收藏本页
